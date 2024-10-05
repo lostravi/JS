@@ -1,1 +1,1 @@
-console.log("Hello Data");
+console.log("Hello Data javascript");
